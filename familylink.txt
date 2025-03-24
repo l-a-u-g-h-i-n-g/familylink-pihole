@@ -1,0 +1,11 @@
+*dns.google
+#prevent a blocking bypass method of using DoH
+*.history.google.com
+#an analytics domain, may or may not be family link related
+*.kidsmanagement-pa.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaselogging.googleapis.com
+*android.apis.google.com
+*device-provisioning.googleapis.com
+firebaseinstallations.googleapis.com
+kidsmanagement-pa.clients6.google.com
