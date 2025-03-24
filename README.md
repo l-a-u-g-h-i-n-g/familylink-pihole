@@ -2,6 +2,7 @@
 Pihole/adguard lists for FamilyLink
 
 Pulled together from @rifting 's domain list and my own logging. 
+These can also be used as a whitelist in the case a blocklist blocks parental controls and you need them.
 
 # Installation
 ---
