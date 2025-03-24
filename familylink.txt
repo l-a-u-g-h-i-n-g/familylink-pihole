@@ -8,4 +8,5 @@ firebaselogging.googleapis.com
 *android.apis.google.com
 *device-provisioning.googleapis.com
 firebaseinstallations.googleapis.com
+#known family links domains
 kidsmanagement-pa.clients6.google.com
