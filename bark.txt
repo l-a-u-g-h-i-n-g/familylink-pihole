@@ -7,3 +7,6 @@ urls.bark.us
 
 *.bark.us
 # full url is ttps://www.bark.us/connections/report-disposition
+# screentime report
+
+screentime.bark.us
