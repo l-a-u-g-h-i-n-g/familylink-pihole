@@ -1,9 +1,14 @@
 # these are found in Scaratech/Breaking-Bark repo 
 
 # send normal report 
-https://urls.bark.us
+urls.bark.us
 
 # send extension report
 
 https://www.bark.us
 # full url is ttps://www.bark.us/connections/report-disposition
+
+
+# screentime report
+
+screentime.bark.us
