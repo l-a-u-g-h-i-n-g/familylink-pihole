@@ -7,3 +7,12 @@ urls.bark.us
 
 *.bark.us
 # full url is ttps://www.bark.us/connections/report-disposition
+
+
+# bark for schools
+
+*.barkforschools.com
+
+# old bark domain
+
+*.bark.app
